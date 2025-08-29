@@ -1,3 +1,8 @@
+Perfect 👍 I’ll update your README to clean up formatting, fix the missing **API Key setup instructions**, and make it fully polished.
+
+Here’s the improved `README.md` (ready to copy-paste):
+
+````markdown
 # 🌤️ Weather Dashboard
 
 A simple and interactive **Weather Dashboard** built with **Streamlit** and **Python**.  
@@ -84,8 +89,13 @@ It allows users to check the **current weather conditions** and view a **5-day t
 
 This app uses the **OpenWeatherMap API**.
 
-1. Get your free API key from [OpenWeatherMap](https://openweathermap.org/api).
-2. Add it to your `app.py` as:
+1. Sign up at [OpenWeatherMap](https://openweathermap.org/api) and generate a free API key.
+2. Open `app.py` and replace the placeholder with your API key:
+
+   ```python
+   API_KEY = "your_api_key_here"
+   ```
+3. Save the file and rerun the app.
 
 ---
 
@@ -130,5 +140,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-Would you also like me to generate a **ready-to-use `requirements.txt` file** along with this README so your repo is plug-and-play?
+👉 Do you also want me to generate the **requirements.txt file content with exact versions** (e.g., `streamlit==1.28.0`) so your app is stable across environments?
 ```
