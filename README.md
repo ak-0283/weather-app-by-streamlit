@@ -3,7 +3,7 @@
 A simple and interactive **Weather Dashboard** built with **Streamlit** and **Python**.  
 It allows users to check the **current weather conditions** and view a **5-day temperature forecast** for any city worldwide.  
 
-![Weather Dashboard Screenshot](Screenshot%202025-08-29%20205228.png)
+![Weather Dashboard Screenshot](Screenshot_2025-08-29_211510.png)
 
 ---
 
