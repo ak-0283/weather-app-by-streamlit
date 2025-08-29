@@ -30,7 +30,7 @@ It allows users to check the **current weather conditions** and view a **5-day t
    ```bash
    git clone https://github.com/your-username/weather-dashboard.git
    cd weather-dashboard
-````
+   ```
 
 2. Create a virtual environment (optional but recommended):
 
@@ -86,10 +86,6 @@ This app uses the **OpenWeatherMap API**.
 
 1. Sign up at [OpenWeatherMap](https://openweathermap.org/api) and generate a free API key.
 2. Open `app.py` and replace the placeholder with your API key:
-
-   ```python
-   API_KEY = "your_api_key_here"
-   ```
 3. Save the file and rerun the app.
 
 ---
