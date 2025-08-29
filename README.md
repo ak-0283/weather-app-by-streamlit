@@ -1,4 +1,3 @@
-````markdown
 # 🌤️ Weather Dashboard
 
 A simple and interactive **Weather Dashboard** built with **Streamlit** and **Python**.  
