@@ -128,8 +128,3 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 This project is licensed under the **MIT License** – feel free to use and modify.
 
 ```
-
----
-
-👉 Do you also want me to generate the **requirements.txt file content with exact versions** (e.g., `streamlit==1.28.0`) so your app is stable across environments?
-```
