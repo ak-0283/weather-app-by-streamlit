@@ -1,8 +1,3 @@
-Perfect 👍 I’ll update your README to clean up formatting, fix the missing **API Key setup instructions**, and make it fully polished.
-
-Here’s the improved `README.md` (ready to copy-paste):
-
-````markdown
 # 🌤️ Weather Dashboard
 
 A simple and interactive **Weather Dashboard** built with **Streamlit** and **Python**.  
