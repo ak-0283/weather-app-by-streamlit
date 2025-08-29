@@ -1,6 +1,3 @@
-Got it ✅
-Here’s a **complete README.md** with everything inside markdown — you can **copy-paste directly**:
-
 ````markdown
 # 🌤️ Weather Dashboard
 
@@ -90,10 +87,6 @@ This app uses the **OpenWeatherMap API**.
 
 1. Get your free API key from [OpenWeatherMap](https://openweathermap.org/api).
 2. Add it to your `app.py` as:
-
-   ```python
-   API_KEY = "your_api_key_here"
-   ```
 
 ---
 
